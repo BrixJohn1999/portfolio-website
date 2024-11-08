@@ -1,11 +1,13 @@
 import Navbar from "./scenes/Navbar";
 import DotGroup from "./scenes/DotGroup";
 import Landing from "./scenes/Landing";
+import Testimonials from "./scenes/Testimonials";
 import MySkills from "./scenes/MySkills";
 import Projects from "./scenes/Projects";
 import { useEffect, useState } from "react";
 import useMediaQuery from "./hooks/useMediaQuery";
 import LineGradient from "./components/LineGradient";
+import { motion } from "framer-motion";
 
 function App() {
   const [selectedPage, setSelectedPage] = useState("home");
@@ -43,6 +45,15 @@ function App() {
       </div>
       <div className="w-5/6 mx-auto">
         <Projects />
+      </div>
+      <div className="w-5/6 mx-auto md:h-full">
+        <motion.div
+          margin="0 0 -200px 0"
+          amount="all"
+          onViewportEnter={() => setSelectedPage("testimonials")}
+        >
+          <Testimonials />
+        </motion.div>
       </div>
     </div>
   );

@@ -21,14 +21,14 @@ const Landing = ({ setSelectedPage }) => {
             <img
               alt="profile"
               className="hover:filter hover:saturate-200 transition duration-500 z-10 w-full max-w-[400px] md:max-w-[600px]"
-              src="assets/profile-image.png"
+              src="assets/brixx.png"
             />
           </div>
         ) : (
           <img
             alt="profile"
             className="z-10 w-full max-w-[400px] md:max-w-[600px]"
-            src="assets/profile-image.png"
+            src="assets/brixx.png"
           />
         )}
       </div>
@@ -45,11 +45,11 @@ const Landing = ({ setSelectedPage }) => {
             visible: { opacity: 1, x: 0 },
           }}
         >
-          <p className="text-5xl font-playfair z-10 text-center md:text-start">
-            Brix {""}
+          <p className="text-4xl font-playfair z-10 text-center md:text-start">
+            Brix John{""}
             <span
               className="xs:relative xs:text-deep-blue xs:font-semibold z-20 xs:before:content-brush
-              before:absolute before:-left-[25px] before:-top-[70px] before:z-[-1] "
+              before:absolute before:-left-[25px] before:-top-[70px] before:z-[-1] ml-2 "
             >
               Novesteras
             </span>
