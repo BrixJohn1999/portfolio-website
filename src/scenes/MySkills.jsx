@@ -24,8 +24,12 @@ const MySkills = () => {
           </p>
           <LineGradient width="w-1/3" />
           <p className="mt-10 mb-7">
-            Aliquam, amet dui feugiat facilisi dui. Aliquam aliquet integer ut
-            fames odio in at.
+            I'm proficient in frontend and backend development with expertise in
+            HTML, CSS, JavaScript, TypeScript, Python and frameworks like
+            ReactJS, Angular, NestJS, and Django. Skilled in database management
+            using PostgreSQL, MySQL, and MongoDB, and experienced in setting up
+            CI/CD pipelines with Azure DevOps. Knowledgeable in cloud and
+            security fundamentals, Agile methodologies, and API integrations.
           </p>
         </motion.div>
         <div className="mt-16 md:mt-0">
@@ -70,9 +74,12 @@ const MySkills = () => {
             <div className="w-1/2 md:w-3/4 h-32 bg-blue absolute right-0 top-0 z-[-1]" />
           </div>
           <p className="mt-5">
-            A auctor pharetra hendrerit mattis amet etiam interdum platea. Est
-            morbi porttitor scelerisque fermentum, sagittis non egestas. Amet
-            odio sit sagittis,
+            With over two years in full-stack development, I have worked as a
+            Frontend Developer at JairoSoft, contributing to high-quality web
+            interfaces and developing scalable applications. Additional roles as
+            a Virtual Assistant and Liaison Officer have strengthened my project
+            management, communication, and research abilities, supporting
+            cross-functional collaboration and documentation efforts.
           </p>
         </motion.div>
 
@@ -98,10 +105,12 @@ const MySkills = () => {
             <div className="w-1/2 md:w-3/4 h-32 bg-red absolute right-0 top-0 z-[-1]" />
           </div>
           <p className="mt-5">
-            Urna, eget pulvinar dolor cursus volutpat dictum odio. Nec ultricies
-            amet in in neque nibh tortor. Libero sed pretium justo nulla blandit
-            nulla amet habitant iaculis. Iaculis in congue vitae sollicitudin
-            faucibus a
+            Developed automated CI/CD pipelines to streamline deployment and
+            testing processes, enhancing project efficiency. Implemented
+            microservices and micro front-end architectures, optimizing system
+            scalability and adaptability for complex web applications. Created
+            learning materials and documentation to improve onboarding
+            processes, fostering a culture of continuous improvement.
           </p>
         </motion.div>
         {/* IMAGINATIVE */}
@@ -126,10 +135,12 @@ const MySkills = () => {
             <div className="w-1/2 md:w-3/4 h-32 bg-yellow absolute right-0 top-0 z-[-1]" />
           </div>
           <p className="mt-5">
-            Accumsan eu fringilla nisi, eget. Vitae, eget ut id proin arcu in
-            curabitur. Lectus libero, egestas enim aliquam quis felis amet.
-            Sagittis, amet netus fringilla netus lobortis odio sed platea.
-            Bibendum.
+            Adaptable and proactive, you bring a creative approach to
+            problem-solving, particularly in troubleshooting and enhancing
+            application functionality. My contributions to development,
+            documentation, and design showcase a balance of technical acumen and
+            visionary thinking that drives high-quality, reliable software
+            solutions.
           </p>
         </motion.div>
       </div>
