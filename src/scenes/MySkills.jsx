@@ -74,7 +74,7 @@ const MySkills = () => {
             <div className="w-1/2 md:w-3/4 h-32 bg-blue absolute right-0 top-0 z-[-1]" />
           </div>
           <p className="mt-5">
-            With over two years in full-stack development, I have worked as a
+            With over four years in full-stack development, I have worked as a
             Frontend Developer at JairoSoft, contributing to high-quality web
             interfaces and developing scalable applications. Additional roles as
             a Virtual Assistant and Liaison Officer have strengthened my project
