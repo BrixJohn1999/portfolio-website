@@ -55,7 +55,7 @@ const Landing = ({ setSelectedPage }) => {
             </span>
           </p>
           <p className="mt-12 mb-7 text-sm text-center md:text-start">
-            Hello, I'm a full-stack developer with 2 years of experience. I
+            Hello, I'm a full-stack developer with 4 years of experience. I
             enjoy building sites & apps.
           </p>
         </motion.div>
